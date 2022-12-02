@@ -245,7 +245,7 @@ p {
     position: relative;
     flex-direction: row;   
     width: 100%;
-    height:60%;
+    height: 60%;
     object-fit: cover;
     text-align: center;
     margin: 10px;
@@ -508,8 +508,9 @@ p {
 
     }
     .featured-project-wrapper {
-    width: 500px;
-    height: 450px;
+    width: 350px;
+    height: 300px;
+    margin: 2%;
     }    
 
     .skills-grid-container{
