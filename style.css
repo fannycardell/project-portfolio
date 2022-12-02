@@ -236,20 +236,21 @@ p {
     display: flex;
     flex-wrap: wrap;
     width: 100%;
-    justify-content: center;
+    justify-content: space-evenly;
     margin: 10px;
-    /* border: purple 2px solid;  */
+    /* border: purple 2px solid; */
 }
 
  .featured-project-wrapper {
     position: relative;
     flex-direction: row;   
-    width: 90%;
-    height: 450px;
+    width: 100%;
+    height:60%;
+    object-fit: cover;
     text-align: center;
     margin: 10px;
     transition: 0.8s ease;
-    float:inline-start
+    float:inline-start;
     /* border: palevioletred 3px solid; */
 }
 .featured-project-wrapper:hover {
@@ -337,6 +338,7 @@ p {
     display: flex;
     flex-direction: column;
     justify-content: center;
+    /*  border: blue 2px solid; */
 }
 .other-project-info {
     display: flex;
