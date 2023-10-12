@@ -1,2 +1,2 @@
 # portfolio
-https://fannycardel-tech-portfolio.netlify.app/
+https://fannycardell-tech-portfolio.netlify.app/
